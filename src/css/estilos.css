@@ -1,0 +1,15 @@
+.myDiv {
+    border: 5px outset rgb(251, 255, 30);
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+  }
+  body{
+    background-color: rgb(255, 253, 253);
+  }
+  body{
+    border: 1px double #ffff00b7;
+    text-decoration: center;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(7, 7, 7);
+  }
