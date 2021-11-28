@@ -133,3 +133,123 @@ color: white;
 .links a{
 margin-left: 4px;
 }
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans);
+
+
+body{
+	height: 100%; 
+	font-family: Georgia, 'Times New Roman', Times, serif ;
+  background-color: #e5ff00; 
+}
+
+
+.contact_form{	
+	width: 460px; 
+  height: auto;
+  margin: 80px auto;
+	border-radius: 10px;  
+	padding-top: 30px;
+	padding-bottom: 20px;
+  padding-left: 30px; 
+}
+
+
+input{
+	background-color: #fbfbfb; 
+	width: 200px; 
+	height: 30px; 
+	border-radius: 5px;  
+	border-style: solid; 
+	border-width: 1px; 
+	border-color: #f1e315; 
+	margin-top: 10px;  
+	padding-left: 10px;
+  margin-bottom: 20px; 
+}
+
+
+textarea{
+  background-color:#fbfbfb; 
+	width: 405px; 
+	height: 150px; 
+	border-radius: 5px;  
+	border-style: solid; 
+	border-width: 1px; 
+	border-color: rgb(251, 255, 30); 
+	margin-top: 10px;  
+	padding-left: 10px;
+  margin-bottom: 20px; 
+  padding-top: 15px; 
+}
+
+
+label{
+  display: block; 
+	float: center; 	
+}
+
+
+button{
+	height: 45px; 
+	padding-left: 5px;
+	padding-right: 5px; 	
+	margin-bottom: 20px; 
+	margin-top: 10px; 	
+	text-transform: uppercase;
+	background-color: #FFC312; 
+	border-color: #FFC312; 
+	border-style: solid; 
+	border-radius: 10px;	
+	width: 420px;   
+  cursor: pointer;
+}
+
+
+button p{
+	color: #fff; 
+}
+
+
+span{
+	color: #FFC312; 
+}
+
+
+.aviso{
+	font-size: 13px;  
+	color: #fff;  
+}
+
+
+h1{
+	font-size: 29px;  
+	text-align: letf; 
+	padding-bottom: 20px; 
+	color: #f8f8f8;
+}
+
+
+h3{
+	font-size: 30px; 
+	padding-bottom: 30px;
+	color:#f8f8f8 ;   
+}
+
+
+p{
+	font-size: 14px; 
+	color: #f8f8f8; 
+}
+
+
+::-webkit-input-placeholder {
+ color: #a8a8a8;
+}
+
+
+::-webkit-textarea-placeholder {
+ color: #a8a8a8;
+}
+
+
+
