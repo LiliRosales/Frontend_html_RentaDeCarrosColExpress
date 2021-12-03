@@ -44,8 +44,11 @@
     right: 50px;
     text-align: right;
   }
-
-  
+ .containerrow{
+   width: 100%;
+   height: 100%;
+   align-content: center
+ }
 @import url('https://fonts.googleapis.com/css?family=Numans');
 
 html,body{
@@ -250,6 +253,5 @@ p{
 ::-webkit-textarea-placeholder {
  color: #a8a8a8;
 }
-
 
 
